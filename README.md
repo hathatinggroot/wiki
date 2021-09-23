@@ -13,6 +13,7 @@
 - [github actions practice](https://github.com/hathatinggroot/github-actions-practice)
 - [mlops study](https://github.com/hathatinggroot/mlops-study)
 - [unit test practice](https://github.com/hathatinggroot/python-unittest-practice)
+- [docker practice](https://github.com/hathatinggroot/docker-practice)
 
 
 ### Language
