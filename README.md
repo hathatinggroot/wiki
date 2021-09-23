@@ -12,8 +12,7 @@
 - [mlops study ci practice(clone coding)](https://github.com/hathatinggroot/mlops-study-research-ci-practice)
 - [github actions practice](https://github.com/hathatinggroot/github-actions-practice)
 - [mlops study](https://github.com/hathatinggroot/mlops-study)
-- [(PYTHON) unit test practice](https://github.com/hathatinggroot/python-unittest-practice)
-
+- [unit test practice](https://github.com/hathatinggroot/python-unittest-practice)
 
 
 ## Language
