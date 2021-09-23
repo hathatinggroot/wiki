@@ -3,8 +3,8 @@
 ## ML / DL          
 - [ml template](https://github.com/hathatinggroot/ml-template)
 - [boost course image classification](https://github.com/hathatinggroot/pstage-image-classification)
+- [(PRIVATE) boost course image classification team](https://github.com/boostcampaitech2/image-classification-level1-32) 
 - [(PRIVATE) boost course tasks](https://github.com/hathatinggroot/boostcamp-tasks)
-- [boost course image classification team](https://github.com/boostcampaitech2/image-classification-level1-32) 
 - [deeplearning from scratch](https://github.com/hathatinggroot/dl-from-scratch)
 
 
